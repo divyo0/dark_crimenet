@@ -1,0 +1,4 @@
+SYNTHETIC CDR EXTRACT — CASE-2026-101
+P001 communicates with P021; P021 communicates with P041; P041 communicates with P061.
+P003 communicates with P004 and P006 during the review period.
+Source references: CDR-100000, CDR-100013, CDR-100029.

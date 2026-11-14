@@ -1,0 +1,4 @@
+SYNTHETIC FINANCIAL RECORD — CASE-2026-101
+A001 transfers funds to A021; A021 transfers funds to A041; A041 is associated with P061.
+Large transactions are synthetic test records intended to exercise anomaly detection.
+Source references: BANK-00000, BANK-00017, BANK-00029.

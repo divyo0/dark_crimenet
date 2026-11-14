@@ -1,0 +1,4 @@
+SYNTHETIC FIR RECORD — CASE-2026-101
+Subject references: P001 Aarav Mehta, P003 Kabir Shah, vehicle V001 DL02AB1001.
+The record contains authorized synthetic observations only. Vehicle V001 appears in two independent records associated with P003 and P004.
+Source references: FIR-100, VEH-77, VEH-91.
